@@ -1,0 +1,109 @@
+.pageTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5rem;
+    text-align: center;
+    color: white;
+}
+
+.pageSub {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.indexButton {
+    text-align: center
+}
+
+.buttonStyleGreen {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 1rem;
+}
+
+.buttonStyleYellow {
+    background-color: rgb(218, 203, 75); /* Yellow */
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 1rem;    
+}
+
+.buttonStyleRed {
+    background-color: rgb(250, 0, 0); /* Red */
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 1rem;
+}
+
+.backgroundBody {
+    background-image: url(/media/blue-sky.jpg);
+    background-size: 100%;
+}
+
+.backTests {
+    background-image: url(/media/sky.jpg);
+    background-size: 100%;
+}
+
+.backAnswers {
+    background-image: url(/media/page.jpg);
+    background-size: 100%;
+}
+
+.QuestionsMargin {
+    margin-top: 4rem;
+    text-align: center
+}
+
+.marginTop {
+    margin-top: 3rem;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.marginTop1 {
+    margin-top: .6rem;
+}
